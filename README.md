@@ -3,7 +3,7 @@
 <h1>Hola!!! 👋, mi nombre es Luis Valcke</h1>
 
 ### ¿Quién soy?
-Full-stack developer y tecnólogo en Mecatrónica con habilidades en JavaScript, HTML, CSS, Git, Webpack, React.js, React Router, Redux, Node.js, Express, Sequelize, SQL, PostgreSQL. Tengo buenas capacidades para el trabajo en equipo y habilidades de liderazgo, permitiendome generar rutinas de trabajo eficaces. Destreza para trabajar bajo presión y aprendizaje rápido. Soy una persona honesta, que valora las cualidades del ser humano y se me facilita relacionarme con otras personas, paciente, responsable y puntual. Buenas habilidades para las matemáticas y la programación de equipos de automatización, al igual que buenas capacidades de análisis y respuesta.
+Front-en developer y tecnólogo en Mecatrónica con habilidades en JavaScript, HTML, CSS, Git, Webpack, React.js, React Router, Redux, Node.js, Express, Sequelize, SQL, PostgreSQL. Tengo buenas capacidades para el trabajo en equipo y habilidades de liderazgo, permitiendome generar rutinas de trabajo eficaces. Destreza para trabajar bajo presión y aprendizaje rápido. Soy una persona honesta, que valora las cualidades del ser humano y se me facilita relacionarme con otras personas, paciente, responsable y puntual. Buenas habilidades para las matemáticas y la programación de equipos de automatización, al igual que buenas capacidades de análisis y respuesta.
 
 ### ¿A donde quiero ir?
 
